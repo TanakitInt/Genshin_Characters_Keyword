@@ -1,2 +1,2 @@
 # Genshin_Characters_Keyword
-A Python Visualization of Genshin Impact Characters Search Keyword
+A Python Counting of Genshin Impact Characters Search Keyword
