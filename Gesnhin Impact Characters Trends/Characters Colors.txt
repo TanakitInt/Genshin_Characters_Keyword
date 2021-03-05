@@ -1,0 +1,33 @@
+Albedo  :#E1D6C7
+Amber   :#DF2A25
+Ayaka   :#9AC4E8
+Barbara :#82B6D4
+Beidou  :#835DA0
+Bennett :#E7BDB4
+Childe (Tartaglia)  :#DD9C51
+Chongyun    :#B2D4EF
+Dainsleif   :#344B85
+Diluc   :#EB4824
+Diona   :#EF9596
+Fischl  :#B478ED
+Ganyu   :#A3C2E4
+Hu Tao  :#53393D
+Jean    :#225E79
+Kaeya   :#2F6881
+Keqing  :#6F51A7
+Klee    :#B3301B
+Lisa    :#493A9A
+Mona    :#7079C4
+Ningguang   :#E6AB59
+Noelle  :#CB3165
+Paimon  :#F7F6E9
+Qiqi    :#86B1DA
+Razor   :#B3B570
+Sucrose :#E5F3D4
+Traveler    :#F8E7C3
+Venti   :#389A7D
+Xiangling   :#F9D744
+Xiao    :#46A287
+Xingqiu :#3D6D8A
+Xinyan  :#312126
+Zhongli :#905A39
